@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="appicon">appicon2.png</file>
+        <file alias="CloudItem.0">cloud.png</file>
+        <file alias="CylinderItem.0">cylinder.png</file>
+        <file alias="PolygonPrismItem.0">polygon.png</file>
+        <file alias="SphereItem.0">sphere.png</file>
+        <file alias="check">check.png</file>
+        <file alias="uncheck">uncheck.png</file>
+        <file alias="dimeye">dimeye.png</file>
+        <file alias="eye">eye.png</file>
+        <file alias="testicon">testicon.png</file>
+        <file alias="cloud24">cloud24.png</file>
+        <file alias="cylinder24">cylinder24.png</file>
+        <file alias="prism24">prism24.png</file>
+        <file alias="sphere24">sphere24.png</file>
+        <file alias="cylinder24.1">cylinder24.1.png</file>
+        <file alias="sphere24.1">sphere24.1.png</file>
+        <file alias="prism24.1">prism24.1.png</file>
+        <file alias="cloud24.1">cloud24.1.png</file>
+        <file alias="SphereItem">sphere16.1.png</file>
+        <file alias="CylinderItem">cylinder16.1.png</file>
+        <file alias="PolygonPrismItem">prism16.1.png</file>
+        <file alias="CloudItem">cloud16.1.png</file>
+        <file alias="save">save24.1.png</file>
+        <file alias="open">open24.1.png</file>
+        <file alias="new">new24.1.png</file>
+        <file alias="crosssection">crosssection24.1.png</file>
+        <file alias="observationset">observationset24.1.png</file>
+        <file alias="offset">offset24.1.png</file>
+        <file alias="units">units24.1.png</file>
+        <file alias="movearrows">movearrows.png</file>
+        <file alias="scalearrows">scalearrows.png</file>
+        <file>smoothicons2.ico</file>
+    </qresource>
+</RCC>
